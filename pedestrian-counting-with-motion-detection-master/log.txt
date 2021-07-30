@@ -1,0 +1,8 @@
+ID: 1 crossed going down at Fri Jul 30 12:05:18 2021
+ID: 2 crossed going down at Fri Jul 30 12:05:23 2021
+ID: 3 crossed going down at Fri Jul 30 12:05:27 2021
+ID: 5 crossed going up at Fri Jul 30 12:05:29 2021
+ID: 7 crossed going down at Fri Jul 30 12:05:31 2021
+ID: 9 crossed going up at Fri Jul 30 12:05:31 2021
+ID: 10 crossed going up at Fri Jul 30 12:05:32 2021
+ID: 9 crossed going down at Fri Jul 30 12:05:35 2021
